@@ -1,0 +1,19 @@
+¿Como comenzar con CSS Grid?
+
+La mejor manera para poder entender bien CSS grid es tener claros los conceptos básicos tales como:
+
+Contenedor: Es quien almacenara nuestros elementos
+
+Elementos: Estos ya los conocemos, pueden ser etiquetas de links, imágenes, o el que necesitemos. Podremos trabajar con ellos a través de sus propiedades al convertirse en grid item.
+
+Otros conceptos a tener en cuenta son:
+
+líneas: dividen nuestras filas y columnas
+Celda: La mínima unidad que se puede tener dentro de una grilla y ocupa una fila y columna.
+Track: Grupo de celdas que solo puede estar en una fila o en una misma columna
+Área: A diferencia de track, el área puede ocupar varias filas y varias columnas.
+Recordemos que al trabajar en con CSS Grid nos referimos en inglés a líneas y columnas:
+
+Línea / row
+Columna / column
+Un gran material de apoyo para poder complementar este curso, es css-tricks y su guía sobre css grid: Guia de css-grid
